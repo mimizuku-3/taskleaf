@@ -158,6 +158,8 @@ GEM
       nokogiri (>= 1.6)
     rails-html-sanitizer (1.4.4)
       loofah (~> 2.19, >= 2.19.1)
+    rails_autolink (1.1.7)
+      rails (> 3.1)
     railties (5.2.8.1)
       actionpack (= 5.2.8.1)
       activesupport (= 5.2.8.1)
@@ -254,6 +256,7 @@ DEPENDENCIES
   pry-rails
   puma (~> 3.11)
   rails (~> 5.2.8, >= 5.2.8.1)
+  rails_autolink
   sass-rails (~> 5.0)
   selenium-webdriver
   slim-rails

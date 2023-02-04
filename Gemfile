@@ -65,4 +65,7 @@ gem 'slim-rails'
 gem 'html2slim'
 gem 'bootstrap'
 
+# For debug
 gem 'pry-rails'
+
+gem 'rails_autolink'
