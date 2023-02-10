@@ -71,3 +71,6 @@ gem 'bootstrap'
 gem 'pry-rails'
 
 gem 'rails_autolink'
+
+# Use Active Job
+gem 'sidekiq', '~> 5.0'
